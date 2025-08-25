@@ -1,0 +1,10 @@
+Step - 1 : Open Google Colab
+
+Step - 2 : Upload the Jupyter Source File from the project Folder
+
+Step - 3 : Upload all 3 Datasets - FAS, SA, SD
+
+Step - 4 : Run the Entire code
+
+Step - 5 : Result is Displayed
+
